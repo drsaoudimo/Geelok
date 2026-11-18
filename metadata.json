@@ -1,0 +1,6 @@
+{
+  "name": "علم التحليل البنيوي للأعداد - Gleeok",
+  "description": "منصة تفاعلية متكاملة لتحليل الأعداد الشبه أولية حتي 1024 بت ومقارنة البصمات المورفولوجية والطيفية للأعداد.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
